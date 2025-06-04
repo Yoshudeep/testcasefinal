@@ -5,3 +5,4 @@ av
 deepface
 tensorflow
 protobuf
+tf-keras
